@@ -2,7 +2,7 @@ function firstWord(s) {
     // Trim leading spaces to handle cases where the string starts with spaces
     s = s.trimStart();
 
-    // If the string is empty after trimming, return an empty string
+    
     if (s === "") {
         return "";
     }
